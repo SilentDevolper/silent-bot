@@ -1075,7 +1075,7 @@ templateButtons: templateButtons
 silent.sendMessage(m.chat, templateMessage)
 }
 break
-case 'loli': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': {
+case 'anime': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'waifus': case 'nekos': case 'trap': case 'blowjob': {
 reply(enviar.espere)
 let buttonsanime = [
 {buttonId: `${command}`, buttonText: {displayText: 'Siguiente Imagen'}, type: 1}
