@@ -1,0 +1,156 @@
+{
+  "users": {
+    "5493813353293@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "5493865221136@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "59167594145@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5493865550309@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "584120356554@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5511936186125@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5215519360779@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "258871442584@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "15137433731@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5519989850070@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "558599290825@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5511976399888@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "5511944158074@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "38976829232@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "5493813353293@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "5493865221136@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363042299344266@g.us": {
+      "mute": false,
+      "antilink": true
+    },
+    "120363043934870323@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "5493865550309@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363040601702308@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {
+    "edit anime": {
+      "key": {
+        "remoteJid": "120363042299344266@g.us",
+        "fromMe": false,
+        "id": "315B720B66C2FF714873B07F221058B4"
+      },
+      "message": {
+        "videoMessage": {
+          "url": "https://mmg.whatsapp.net/d/f/AqgKuseMUIXDSWK-vZ0bdcSy90JxQx-4gc3Mxdidkf2X.enc",
+          "mimetype": "video/mp4",
+          "fileSha256": "MVWm4cKGU6xPsT6Q5uNyaVZk1MaLpN/bCH1D2BEo6Qw=",
+          "fileLength": "1010472",
+          "seconds": 14,
+          "mediaKey": "57IC0OCdnGsLPDQVNZIZ4MJAknq4oJUfV8D/Iyh+Msk=",
+          "height": 352,
+          "width": 640,
+          "fileEncSha256": "0VCdGpCHwmKCvzDebvGq0Vf6FM1W8c204lCHifK73UM=",
+          "directPath": "/v/t62.7161-24/30785958_423491456371973_6142284078354481158_n.enc?ccb=11-4&oh=01_AVzvXMSFL4BoS3INIfI_ykq8kAvsbWOVQCOkF18EU_tMhQ&oe=62F19C40",
+          "mediaKeyTimestamp": "1657498890",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIACgASAMBIgACEQEDEQH/xAAqAAEAAwEAAAAAAAAAAAAAAAAAAQMFBgEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA5kABMAAACysbmRUAAAAAAAP/xAAgEAEAAQMDBQAAAAAAAAAAAAACAwABUREhMAQSIjFA/9oACAEBAAE/AOXS+OCN9jKxej1kDlS8TjapkVK0fWu3zf/EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8Af//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8Af//Z",
+          "streamingSidecar": "4+9da19uJpCBHFfuHx/l27sj7lWH6PdjAG7fzPzTIZaHmQCBIhvk9blIpkdftVWroQUcrYTbDT44sApiiUSVGO9Jg588hxdpazbTjmKaeA4S9bsOHtGnQjpTzHx0Z5Hk7Sq3Oz9Sn3A/Hc9tQ0v8gqoC3xe6D78e9ka6rEY1+vuBIXWWv2IUjjuGmTAhIkesOEMR5cAtNkHH4pvOY8kb4g=="
+        }
+      },
+      "participant": "5493865221136@s.whatsapp.net"
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "5493813353293@s.whatsapp.net": {
+      "anticall": true,
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": true,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {},
+  "anonymous": {}
+}
